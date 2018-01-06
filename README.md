@@ -1,2 +1,2 @@
-# lambdaExpression
+# LambdaExpression
 Tutorial Course By JavaBrains
